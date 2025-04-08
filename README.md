@@ -5,7 +5,7 @@ hello 안녕하세요
 
 제 생일은 2003.12.26 입니다.
 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 
 
 <!--
